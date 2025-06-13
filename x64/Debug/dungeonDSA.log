@@ -1,0 +1,7 @@
+﻿  enemy.cpp
+C:\Users\LAPIFY\source\repos\dungeonDSA\dungeonDSA\enemy.cpp(99,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\LAPIFY\source\repos\dungeonDSA\dungeonDSA\enemy.cpp(105,57): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\LAPIFY\source\repos\dungeonDSA\dungeonDSA\enemy.cpp(124,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\LAPIFY\source\repos\dungeonDSA\dungeonDSA\enemy.cpp(130,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\LAPIFY\source\repos\dungeonDSA\dungeonDSA\enemy.cpp(38,1): warning C4715: 'enemy::printEnemies': not all control paths return a value
+  dungeonDSA.vcxproj -> C:\Users\LAPIFY\source\repos\dungeonDSA\x64\Debug\dungeonDSA.exe
